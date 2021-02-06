@@ -10,4 +10,4 @@
 
 #### Preenchimento e-mail e senha(show password)
 
-![](https://github.com/izepon/izeponcorp-login/blob/main/img/izeponcorp-login-hide-password.PNG)
+![](https://github.com/izepon/izeponcorp-login/blob/main/img/izeponcorp-login-show-password.PNG)
